@@ -1,2 +1,10 @@
 # Num_Guesser
- A Python program that will guess a random until they get your number 
+To install:
+```
+git clone https://github.com/AshuHK/Num_Guesser
+```
+
+To run the program:
+```
+python main.py
+```
